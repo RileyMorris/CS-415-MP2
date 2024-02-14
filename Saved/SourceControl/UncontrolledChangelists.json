@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/UI/T_Restart.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/What.umap",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/UI/HealthWidget.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/UI/WBP_Restart.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Items/PlayerCollectable.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Maps/BlockGame2.umap",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Items/HealthPack.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/UI/ScoreWidget.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Enemies/EAIState.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Enemies/M_Debug.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Enemies/AI_Object_ControlPathPoint.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Enemies/AI_Behavior.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Enemies/Pursuer_AIController.uasset",
+				"C:/Users/rhino/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/BlockGame/Enemies/BP_Pursuer.uasset"
+			]
+		}
+	]
+}
