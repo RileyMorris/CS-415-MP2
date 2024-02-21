@@ -1,5 +1,6 @@
 # CS 415 MP2 Platformer Game
-### Demo Video: [Link](https://www.youtube.com/watch?v=vGnxQY1iCGI)
+### Part 1 Demo Video: [Link](https://www.youtube.com/watch?v=vGnxQY1iCGI)
+### Part 2 Demo Video: [Link](https://www.youtube.com/watch?v=6JULpeageWQ)
 
 The code for the level can be found at:
 - UI: Content/BlockGame/UI
